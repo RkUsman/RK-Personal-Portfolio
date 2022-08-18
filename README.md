@@ -9,8 +9,10 @@ This is a fully responsive personal portfolio website, responsive for all device
 
 ![ Live Demo ] (https://rkusman.github.io/RK-Personal-Portfolio/)
 
-![ Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![ Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![ Desktop Demo](./website-demo-image/desktop1.png "Desktop Demo")
+![ Desktop Demo](./website-demo-image/desktop2.png "Desktop Demo")
+![ Desktop Demo](./website-demo-image/desktop3.png "Desktop Demo")
+![ Desktop Demo](./website-demo-image/desktop4.png "Desktop Demo")
 
 ## Prerequisites
 
